@@ -1,5 +1,5 @@
-# React First App
-Reference Book: 「作りながら学ぶReact入門」
+# First React App
+Reference: 「作りながら学ぶReact入門」
 
 ## Jyanken
 Words:
